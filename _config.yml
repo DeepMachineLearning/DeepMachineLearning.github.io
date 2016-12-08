@@ -138,11 +138,9 @@ locales:
 
 Blogroll:
       - name: Deep Machine Learning
-        href: http://deepmachineleraning.github.ioman
+        href: http://deepmachineleraning.github.io
         title: Deep Machine Learning
-      - name: Deep Machine Learning
-        href: http://deepmachineleraning.github.ioman
-        title: Deep Machine Learning Yu's website
+
 
 
 ### Build settings
