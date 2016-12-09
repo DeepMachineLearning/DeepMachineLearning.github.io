@@ -12,7 +12,7 @@ locale: en_US
 ### Personal info and site tools info:
 twitter_username: deepmachinelearning
 github_username:  deepmachinelearning
-disqus_shortname: deepmachinelearning
+disqus_shortname: deep-machine-learning
 favicon:     "/images/favicon.ico"
 aboutme: This is a site dedicated for deep machine learning resources. # these are shown on aboutme-sidebar.
 aboutme_photo: https://media.licdn.com/mpr/mpr/p/2/005/07a/381/2b35ce9.jpg  # your photo.
